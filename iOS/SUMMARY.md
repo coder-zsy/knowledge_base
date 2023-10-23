@@ -6,6 +6,7 @@
 ## 🛠 project
 
 * [📦 sandbox](project/sandbox.md)
+* [Performance](project/performance.md)
 
 ## 📬 cocoapods
 
