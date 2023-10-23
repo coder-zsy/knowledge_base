@@ -5,4 +5,4 @@
 
 ## 🛠 project
 
-* [sandbox](project/sandbox.md)
+* [📦 sandbox](project/sandbox.md)
